@@ -5,3 +5,5 @@ This Repository will contain all the data files for the Average and the Rom
 AverageLift.csv  ----> this contains average lift values corresponding to the re, overlapt , aoa (45 data points)
 
 Test1 ----> this will give the average value (Bayesop)
+
+Average_COL_All_Comb.csv ----> This contains all the modification features of the File AverageLift.csv
