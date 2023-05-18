@@ -12,4 +12,3 @@ Full_feature_generation_LIFT.mlx ----> Matlab Code to generate the Complete set 
 
 Loss_grp.m ----> A function used by the Test1 to calculate error
 
-average_lift_prediction ----> Complete Lift values
