@@ -27,3 +27,4 @@ full_feature_flapping_wing.mlx ----> this will generate the sin and cos of the n
 
 SFS_test_Data_Case -----> These files contain all the feature variation of the Feature_Data_Case
 
+complete_data.csv ----> csv file containing all the cases
